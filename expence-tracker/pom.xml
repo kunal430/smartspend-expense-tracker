@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.smartspend</groupId>
-	<artifactId>expence-tracker</artifactId>
+	<artifactId>expense-tracker</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>

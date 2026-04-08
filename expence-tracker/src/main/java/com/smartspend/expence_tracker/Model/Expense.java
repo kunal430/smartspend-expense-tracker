@@ -14,7 +14,7 @@ public class Expense {
     private String title ;
     private Double amount ;
 
-    public  Expense () {}
+    public Expense() {}
     public Expense(String title , Double amount ){
         this.amount = amount ;
         this.title = title ;
